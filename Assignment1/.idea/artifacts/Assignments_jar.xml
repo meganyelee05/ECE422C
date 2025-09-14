@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assignments:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignments_jar</output-path>
+    <root id="archive" name="Assignments.jar">
+      <element id="module-output" name="Assignments" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/stanford-tagger-4.2.0/stanford-postagger-full-2020-11-17/stanford-postagger-4.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/stanford-postagger-4.2.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/models/english-left3words-distsim.tagger" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/stanford-postagger-4.2.0.jar" />
+    </root>
+  </artifact>
+</component>

@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d533f46d-8c10-4a23-8880-ca913993a8c8" name="Changes" comment="" />
+    <list default="true" id="d533f46d-8c10-4a23-8880-ca913993a8c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment2/assignment2/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2/assignment2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InClass/Recitation/src/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/src/assignment1/Problem1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,24 +25,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="32AicVPSW3snvBK02rfx8rxF1bW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/megth/ECE422C"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/megth/ECE422C&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ECE422C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ECE422C" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d533f46d-8c10-4a23-8880-ca913993a8c8" name="Changes" comment="" />
